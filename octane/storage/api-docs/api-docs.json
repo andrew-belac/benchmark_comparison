@@ -1,0 +1,19 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Random Api",
+        "version": "1.0"
+    },
+    "paths": {
+        "/api/random": {
+            "get": {
+                "operationId": "4674bc7c2679b2eac6dd2e067a70df99",
+                "responses": {
+                    "200": {
+                        "description": "Random number"
+                    }
+                }
+            }
+        }
+    }
+}
